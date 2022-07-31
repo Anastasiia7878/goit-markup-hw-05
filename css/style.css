@@ -553,3 +553,17 @@ body {
     0px 2px 1px rgba(0, 0, 0, 0.06),
     0px 1px 3px rgba(0, 0, 0, 0.16);
 }
+
+/* .work-example-wrapper {
+    display: block;
+} */
+.overley {
+    font-size: 18px;
+    letter-spacing: 3%;
+    /* align-items: center;
+    justify-content: center; */
+    padding: 63px 24px;
+
+    color: var(--primary-text-color-theme-dark);
+    background-color: var(--accent-color);
+}
